@@ -1,4 +1,4 @@
-desplegar => https://nextjs-app-three-pi.vercel.app/
+Deploy 💨 https://nextjs-app-three-pi.vercel.app/
 
 ## Getting Started
 
